@@ -1,1 +1,2 @@
-archivo donde se crea rama o bifurcacion 
+archivo donde se crea rama o bifurcacion
+se guardan cambios en la rama 
